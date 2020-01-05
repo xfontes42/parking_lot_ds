@@ -3,4 +3,5 @@ Dataset used in Fontes, Xavier, and Daniel Castro Silva. "EDGE: Evolutionary dir
 
 
 ### Todo:
+* [ ] Add data to repo.
 * [ ] Add description for DS. 
