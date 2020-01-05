@@ -4,4 +4,5 @@ Dataset used in Fontes, X., Silva, D.C.: Edge: Evolutionary directed graph ensem
 
 ### Todo:
 * [x] Add data to repo.
+* [x] Add class reader to repo.
 * [ ] Add description for DS. 
